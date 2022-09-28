@@ -3,3 +3,5 @@ const century = (year) => {
 
 }
 century(1989)
+century(2022)
+century(2001)
